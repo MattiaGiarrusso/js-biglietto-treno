@@ -5,7 +5,7 @@
 // va applicato uno sconto del 40% per gli over 65.
 
 // Prezzo del biglietto per km
-const priceForKm = 'Il prezzo del biglietto è € 0.21 al km';
+const priceForKm = 'INFO: Il prezzo del biglietto è € 0.21 al km, se non intende pagare potrebbe essere soggetto ad una contravvenzione';
 console.log(priceForKm);
 alert (priceForKm);
 
