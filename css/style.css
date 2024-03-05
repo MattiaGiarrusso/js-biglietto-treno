@@ -12,19 +12,21 @@ body {
     background-image: url(./img/ajeje.jpg);
     background-repeat: no-repeat;
     background-size: cover; 
+    margin: 0 auto;
 }
 
 .container {
-    max-width: 50%;
     display: flex;
     justify-content: center;
+    margin: 150px 0px;
 }
 
 .row {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 70%;
+    padding: 70px 0px;
+    width: 50%;
     background-color: rgba(199, 198, 198, 0.5);
     border: 1px solid white;
     border-radius: 20px;    
