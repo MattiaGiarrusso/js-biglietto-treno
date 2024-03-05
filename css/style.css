@@ -13,3 +13,19 @@ body {
     background-repeat: no-repeat;
     background-size: cover; 
 }
+
+.container {
+    max-width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    background-color: rgba(199, 198, 198, 0.5);
+    border: 1px solid white;
+    border-radius: 20px;    
+}
